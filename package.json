@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@league-of-foundry-developers/foundry-vtt-types": "^0.8.9-7",
+    "@types/node": "^16.11.10",
+    "typescript": "^4.5.2"
+  },
+  "name": "foundry-cryptorng",
+  "description": "This module implements crypto random number generator service into the dice rolls of Foundry-VTT.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolashenry/Foundry-CryptoRNG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolashenry/Foundry-CryptoRNG/issues"
+  },
+  "homepage": "https://github.com/nicolashenry/Foundry-CryptoRNG#readme"
+}
