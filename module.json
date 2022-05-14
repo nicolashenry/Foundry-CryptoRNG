@@ -2,7 +2,7 @@
 	"name": "cryptorng",
 	"title": "Crypto RNG",
 	"description": "Replaces the default random number generator with crypto.getRandomValues javascript function. Providing better random dice rolls.",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"author": "Nicolas HENRY",
 	"minimumCoreVersion": "0.7.9",
 	"compatibleCoreVersion": "0.8.9",
@@ -13,5 +13,5 @@
 	"bugs": "https://github.com/nicolashenry/Foundry-CryptoRNG/issues",
 	"url": "https://github.com/nicolashenry/Foundry-CryptoRNG",
 	"manifest": "https://raw.githubusercontent.com/nicolashenry/Foundry-CryptoRNG/master/module.json",
-	"download": "https://github.com/nicolashenry/Foundry-CryptoRNG/archive/refs/tags/v1.0.0.zip"
+	"download": "https://github.com/nicolashenry/Foundry-CryptoRNG/archive/refs/tags/v2.0.0.zip"
 }
